@@ -3,11 +3,9 @@
 
 | Date             | Project                | Description                                    | Stack |
 |------------------|------------------------|------------------------------------------------|-------|
-| November 2023    | WPF Groceries          | A grocery store management system. Built in WPF|       |
-| October 2023     | Console Shopping       | A grocery store with a bonus system built in for customers.
-Built in Console application.  |       |    
-| September 2023   | Coloring Sequence      | A Console for tracking a sequences of numbers.
-Built in Console application. |       |
+| November 2023    | WPF Groceries          | A grocery store management system. </br> Built in WPF|       |
+| October 2023     | Console Shopping       | A grocery store with a bonus system built in for customers.</br> Built in Console application.  |       |    
+| September 2023   | Coloring Sequence      | A Console for tracking a sequences of numbers.</br> Built in Console application. |       |
 
 <!--
 **Bjornanger/Bjornanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
