@@ -1,11 +1,11 @@
 # Portfolio
 
 
-| Date  | Project | Description   |
-|-------|---------|---------------|
-| Äpple | 10kr    | Finns i lager |
-| Korv  | 20kr    | Slut i lager  |
-| Dricka| 15kr    | Finns i lager |
+| Date  | Project | Description   | Stack |
+|-------|---------|---------------|-------|
+| Äpple | 10kr    | Finns i lager |       |
+| Korv  | 20kr    | Slut i lager  |       |    
+| Dricka| 15kr    | Finns i lager |       |
 
 <!--
 **Bjornanger/Bjornanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
