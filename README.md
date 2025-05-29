@@ -3,9 +3,9 @@
 
 | Date             | Project                | Description                                    | Stack |
 |------------------|------------------------|------------------------------------------------|-------|
-| November 2023    | WPF Groceries          | </br>A grocery store management system. </br> Built in WPF|       |
+| November 2023    | WPF Groceries          | </br>A grocery store management system. </br> Built in WPF|  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet&perline=3)](https://skillicons.dev)        |
 | October 2023     | Console Shopping       | </br>A grocery store with a bonus system built in for customers.</br> Built in Console application.  | [![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)     |    
-| September 2023   | Coloring Sequence      | </br>A Console for tracking a sequences of numbers.</br> Built in Console application. |       |
+| September 2023   | Coloring Sequence      | </br>A Console for tracking a sequences of numbers.</br> Built in Console application. |  [![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)       |
 
 <!--
 **Bjornanger/Bjornanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
