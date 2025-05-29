@@ -1,5 +1,6 @@
 # Portfolio
 
+This is a collection of projects I have made that I am particularly proud of and want to showcase.
 
 | Date             | Project                | Description                                    | Stack |
 |------------------|------------------------|------------------------------------------------|-------|
