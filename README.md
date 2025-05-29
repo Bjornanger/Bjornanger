@@ -1,22 +1,11 @@
-## Portfolio
-# 📌 Projektets namn
-
-## 🔍 Beskrivning
-En kort introduktion till vad projektet handlar om och dess syfte.
-
-## 🚀 Funktioner
-- Funktion 1
-- Funktion 2
-- Funktion 3
-
-## 🛠 Teknologier
-Projektet är byggt med:
-- [X] **C#**
-- [X] **WPF**
-- [X] **Entity Framework**
+# Portfolio
 
 
-
+| Date  | Project | Description   |
+|-------|---------|---------------|
+| Äpple | 10kr    | Finns i lager |
+| Korv  | 20kr    | Slut i lager  |
+| Dricka| 15kr    | Finns i lager |
 
 <!--
 **Bjornanger/Bjornanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
