@@ -1,6 +1,15 @@
-# Portfolio
+# 👋 Welcome to My GitHub Portfolio!
 
-This is a collection of projects I have made that I am particularly proud of and want to showcase.
+## 🛠 About Me
+This is a collection of projects I have made during my journey of becoming a .NET developer.  
+I am passionate about creating applications using C#, .NET, WPF and Blazor and I love solving real-world problems with code.
+
+## 🚀 Technologies & Tools
+Here are some technologies I work with:
+- **Languages:** C#, JavaScript
+- **Frameworks:** .NET, ASP.NET, WPF
+- **Databases:** SQL Server, MongoDb
+- **Tools:** Git, GitHub, Docker, Visual Studio
 
 | Date             | Project                | Description                                    | Stack |
 |------------------|------------------------|------------------------------------------------|-------|
