@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Portfolio!
+# Welcome to My GitHub Portfolio!
 
 ## 🛠 About Me
 This is a collection of projects I have made during my journey of becoming a .NET developer.  
