@@ -7,7 +7,7 @@ I am passionate about creating applications using C#, .NET, WPF and Blazor and I
 ## 🚀 Technologies & Tools
 Here are some technologies I work with:
 - **Languages:** C#, JavaScript
-- **Frameworks:** .NET, ASP.NET, WPF
+- **Frameworks:** .NET, ASP.NET, WPF, Blazor
 - **Databases:** SQL Server, MongoDb
 - **Tools:** Git, GitHub, Docker, Visual Studio
 
