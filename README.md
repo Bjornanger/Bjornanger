@@ -9,10 +9,11 @@ Here are some technologies I work with:
 - **Languages:** C#, JavaScript
 - **Frameworks:** .NET, ASP.NET, WPF, Blazor
 - **Databases:** SQL Server, MongoDb
-- **Tools:** Git, GitHub, Docker, Visual Studio Webbutveckling-Fullstack-Blazor
+- **Tools:** Git, GitHub, Docker, Visual Studio 
 
 | Date             | Project                | Description                                    | Stack |
 |------------------|------------------------|------------------------------------------------|-------|
+|December </br> 2024|[Review Service](https://github.com/Bjornanger/MicroService-ReviewService)|A MicroService within a project with 3 other developers.</br> A MicroService architecture for a specific feature. Mine are a Review service for recipies. </br> Tech stack includes C#, SQl, Docker and architecture principles within Clean Architecture| [![My Skills](https://skillicons.dev/icons?i=cs,sqlite,docker,githubactions&perline=2)](https://skillicons.dev)|
 |Mars</br> 2024|[OnlineStore](https://github.com/Bjornanger/Webbutveckling-Fullstack-Blazor)|A Store where you can buy fictional products and place orders. See history etc. </br>The tech stack includes Blazor, ASP.NET Core, Minimal API, Microsoft SQL Server.|[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,sqlite&perline=2)](https://skillicons.dev)|
 | February</br> 2024|  [Sci-Fi Store](https://github.com/Bjornanger/LabbHTML-JavaScript) | A website for a fictional Sci-Fi Store.| [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=2)](https://skillicons.dev) |
 |December</br> 2023|[BookStores](https://github.com/Bjornanger/DatabasUtveckling-DatabaseFirst-SQL)|Created a Bookstore with DataBase first in SQL integrating it to a WPF.</br> Built in WPF and Microsoft SQL Server.| [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite&perline=2)](https://skillicons.dev)|
